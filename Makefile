@@ -34,7 +34,7 @@
 
 HOME_TREE := .
 
-MAKE_TARGETS := sdk app
+MAKE_TARGETS := sdk vegaav
 
 include $(HOME_TREE)/mak_def.inc
 
