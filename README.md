@@ -1,4 +1,4 @@
-# Project-AV
+# Project-AV - Path Planner
 
 Curated by **Gimhan Dayarathna**, this repository contains the cpp implementation of a Lidar based Pathplanner fused with a camera based object detection.
 
