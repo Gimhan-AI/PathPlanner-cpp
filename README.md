@@ -1,7 +1,22 @@
-This repository contains the cpp implementation of Camera and Lidar based Pathplanner.
+# Project-AV
 
-To run the code at vegaav/pathplanner/main.cpp
-    make clean
-    make
-    cd output/Linux/Release/
-    sudo ./pathplanner --channel --serial /dev/ttyUSB0 1000000
+Curated by **Gimhan Dayarathna**, this repository contains the cpp implementation of Camera and Lidar based Pathplanner.
+
+## To run the code at vegaav/pathplanner/main.cpp
+
+```bash
+make clean
+```
+```bash
+make
+```
+```bash
+cd output/Linux/Release/
+```
+```bash
+sudo ./pathplanner --channel --serial /dev/ttyUSB0 1000000
+```
+    
+    
+    
+    
