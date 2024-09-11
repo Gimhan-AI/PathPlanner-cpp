@@ -1,6 +1,6 @@
 # Project-AV
 
-Curated by **Gimhan Dayarathna**, this repository contains the cpp implementation of Camera and Lidar based Pathplanner.
+Curated by **Gimhan Dayarathna**, this repository contains the cpp implementation of a Lidar based Pathplanner fused with a camera based object detection.
 
 ## To run the code at vegaav/pathplanner/main.cpp
 
